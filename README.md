@@ -56,7 +56,6 @@ Derived:
 
 - Include GDP or health spending per capita as predictors
 - Compare pre- and post-pandemic suicide trends
-- Deploy model as an interactive dashboard (Streamlit or Power BI)
 
 ##  About Me
 
